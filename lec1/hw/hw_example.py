@@ -4,4 +4,4 @@ def sum(vector):
         s += num
     return s
 
-print(sum([1, 2, 3]))
+print(sum([1, 2, 34]))
